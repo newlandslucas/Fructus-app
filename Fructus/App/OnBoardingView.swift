@@ -15,7 +15,8 @@ struct OnBoardingView: View {
     var body: some View {
         TabView {
             ForEach(0..<15) {item in
-                FruiCardView()
+                Text("Cards")
+//                FruitCardView()
             }
         }
         .tabViewStyle(PageTabViewStyle())
