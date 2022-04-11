@@ -9,13 +9,13 @@
 
 - In the terminal run this command
 
-  -  `git clone https://github.com/newlandslucas/RestartApp-SwiftUI.git`
+  -  `git clone https://github.com/newlandslucas/Fructus-app.git`
 
 - Open that folder in your XCode
 
 ## Prints
 
-<img src="/Fructus/Assets.xcassets/Prints/PrintScreen1.png" height="600" width="300"> <img src="/Fructus/Assets.xcassets/Prints/PrintScreen2.png" height="600" width="300"> <img src="/Fructus/Assets.xcassets/Prints/PrintScreen3.png" height="600" width="300">
+<img src="/Fructus/Assets.xcassets/printScreen1.png" height="600" width="300"> <img src="/Fructus/Assets.xcassets/Prints/PrintScreen2.png" height="600" width="300"> <img src="Fructus/Assets.xcassets/printScreen3.png" height="600" width="300">
 
 
 ## Author
