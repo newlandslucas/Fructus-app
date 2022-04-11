@@ -21,6 +21,7 @@
 		94900BE627FF78B000EDB4AF /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94900BE527FF78B000EDB4AF /* FruitModel.swift */; };
 		94900BE927FF7A2F00EDB4AF /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94900BE827FF7A2F00EDB4AF /* FruitData.swift */; };
 		94A052E828047BD10081AA87 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A052E728047BD10081AA87 /* FruitNutrientsView.swift */; };
+		94C60AD82804B22800A24093 /* SetttingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C60AD72804B22800A24093 /* SetttingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		94900BE527FF78B000EDB4AF /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		94900BE827FF7A2F00EDB4AF /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
 		94A052E728047BD10081AA87 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		94C60AD72804B22800A24093 /* SetttingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetttingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				946B1C2427F37D6A00CF8A55 /* ContentView.swift */,
 				941467AC27FD175E00FA8E26 /* OnBoardingView.swift */,
 				9480266A2800EC0100EACFD8 /* FruitDetailView.swift */,
+				94C60AD72804B22800A24093 /* SetttingsView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				94900BE627FF78B000EDB4AF /* FruitModel.swift in Sources */,
 				9480266D2800F67000EACFD8 /* FruitHeaderView.swift in Sources */,
 				941467A927FD107D00FA8E26 /* FruitCardView.swift in Sources */,
+				94C60AD82804B22800A24093 /* SetttingsView.swift in Sources */,
 				941467AD27FD175E00FA8E26 /* OnBoardingView.swift in Sources */,
 				946B1C2327F37D6A00CF8A55 /* FructusApp.swift in Sources */,
 			);
