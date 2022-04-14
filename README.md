@@ -15,7 +15,7 @@
 
 ## Prints
 
-<img src="/Fructus/Assets.xcassets/printScreen1.png" height="600" width="300"> <img src="/Fructus/Assets.xcassets/Prints/PrintScreen2.png" height="600" width="300"> <img src="Fructus/Assets.xcassets/printScreen3.png" height="600" width="300">
+<img src="/Fructus/Images/p1.png" height="600" width="300"> <img src="/Fructus/Images/p2.png" height="600" width="300"> <img src="/Fructus/Images/p3.png" height="600" width="300"> <img src="/Fructus/Images/p4.png" height="600" width="300"> 
 
 
 ## Author
