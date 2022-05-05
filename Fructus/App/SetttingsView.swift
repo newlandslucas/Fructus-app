@@ -40,7 +40,7 @@ struct SetttingsView: View {
                         SettingsRowView(name: "Developer", content: "Lucas Newlands")
                         SettingsRowView(name: "Designer", content: "Robert Petras")
                         SettingsRowView(name: "IOS Compatibility", content: "IOS 15")
-                        SettingsRowView(name: "Instagram", linkLabel: "@lucasnewlands_", linkDestination: "www.instagram.com/lucasnewlands_/")
+                        SettingsRowView(name: "Instagram", linkLabel: "@lucasnewlands_", linkDestination: "www.instagram.com/lucasnewlands_")
                         SettingsRowView(name: "LinkedIn", linkLabel: "@lucasnewlands", linkDestination: "www.linkedin.com/in/lucas-newlands-46326b192/")
                         SettingsRowView(name: "Version", content: "1.0.0")
                         
